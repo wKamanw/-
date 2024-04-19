@@ -1,0 +1,14 @@
+D:\proekty\laba 8(1)\obj\Debug\net8.0\laba 8(1).GeneratedMSBuildEditorConfig.editorconfig
+D:\proekty\laba 8(1)\obj\Debug\net8.0\laba 8(1).AssemblyInfoInputs.cache
+D:\proekty\laba 8(1)\obj\Debug\net8.0\laba 8(1).AssemblyInfo.cs
+D:\proekty\laba 8(1)\obj\Debug\net8.0\laba 8(1).csproj.CoreCompileInputs.cache
+D:\proekty\laba 8(1)\bin\Debug\net8.0\laba 8(1).exe
+D:\proekty\laba 8(1)\bin\Debug\net8.0\laba 8(1).deps.json
+D:\proekty\laba 8(1)\bin\Debug\net8.0\laba 8(1).runtimeconfig.json
+D:\proekty\laba 8(1)\bin\Debug\net8.0\laba 8(1).dll
+D:\proekty\laba 8(1)\bin\Debug\net8.0\laba 8(1).pdb
+D:\proekty\laba 8(1)\obj\Debug\net8.0\laba 8(1).dll
+D:\proekty\laba 8(1)\obj\Debug\net8.0\refint\laba 8(1).dll
+D:\proekty\laba 8(1)\obj\Debug\net8.0\laba 8(1).pdb
+D:\proekty\laba 8(1)\obj\Debug\net8.0\laba 8(1).genruntimeconfig.cache
+D:\proekty\laba 8(1)\obj\Debug\net8.0\ref\laba 8(1).dll
