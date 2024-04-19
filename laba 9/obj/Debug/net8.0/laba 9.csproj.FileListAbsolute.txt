@@ -1,0 +1,14 @@
+D:\proekty\laba 9\bin\Debug\net8.0\laba 9.exe
+D:\proekty\laba 9\bin\Debug\net8.0\laba 9.deps.json
+D:\proekty\laba 9\bin\Debug\net8.0\laba 9.runtimeconfig.json
+D:\proekty\laba 9\bin\Debug\net8.0\laba 9.dll
+D:\proekty\laba 9\bin\Debug\net8.0\laba 9.pdb
+D:\proekty\laba 9\obj\Debug\net8.0\laba 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\proekty\laba 9\obj\Debug\net8.0\laba 9.AssemblyInfoInputs.cache
+D:\proekty\laba 9\obj\Debug\net8.0\laba 9.AssemblyInfo.cs
+D:\proekty\laba 9\obj\Debug\net8.0\laba 9.csproj.CoreCompileInputs.cache
+D:\proekty\laba 9\obj\Debug\net8.0\laba 9.dll
+D:\proekty\laba 9\obj\Debug\net8.0\refint\laba 9.dll
+D:\proekty\laba 9\obj\Debug\net8.0\laba 9.pdb
+D:\proekty\laba 9\obj\Debug\net8.0\laba 9.genruntimeconfig.cache
+D:\proekty\laba 9\obj\Debug\net8.0\ref\laba 9.dll
