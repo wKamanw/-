@@ -1,0 +1,16 @@
+D:\proekty\Laba11(2)\bin\Debug\net8.0-windows\Laba11(2).exe
+D:\proekty\Laba11(2)\bin\Debug\net8.0-windows\Laba11(2).deps.json
+D:\proekty\Laba11(2)\bin\Debug\net8.0-windows\Laba11(2).runtimeconfig.json
+D:\proekty\Laba11(2)\bin\Debug\net8.0-windows\Laba11(2).dll
+D:\proekty\Laba11(2)\bin\Debug\net8.0-windows\Laba11(2).pdb
+D:\proekty\Laba11(2)\obj\Debug\net8.0-windows\Laba11_2_.Form1.resources
+D:\proekty\Laba11(2)\obj\Debug\net8.0-windows\Laba11(2).csproj.GenerateResource.cache
+D:\proekty\Laba11(2)\obj\Debug\net8.0-windows\Laba11(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\proekty\Laba11(2)\obj\Debug\net8.0-windows\Laba11(2).AssemblyInfoInputs.cache
+D:\proekty\Laba11(2)\obj\Debug\net8.0-windows\Laba11(2).AssemblyInfo.cs
+D:\proekty\Laba11(2)\obj\Debug\net8.0-windows\Laba11(2).csproj.CoreCompileInputs.cache
+D:\proekty\Laba11(2)\obj\Debug\net8.0-windows\Laba11(2).dll
+D:\proekty\Laba11(2)\obj\Debug\net8.0-windows\refint\Laba11(2).dll
+D:\proekty\Laba11(2)\obj\Debug\net8.0-windows\Laba11(2).pdb
+D:\proekty\Laba11(2)\obj\Debug\net8.0-windows\Laba11(2).genruntimeconfig.cache
+D:\proekty\Laba11(2)\obj\Debug\net8.0-windows\ref\Laba11(2).dll
