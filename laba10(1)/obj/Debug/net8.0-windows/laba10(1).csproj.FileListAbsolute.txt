@@ -1,0 +1,16 @@
+D:\proekty\laba10(1)\bin\Debug\net8.0-windows\laba10(1).exe
+D:\proekty\laba10(1)\bin\Debug\net8.0-windows\laba10(1).deps.json
+D:\proekty\laba10(1)\bin\Debug\net8.0-windows\laba10(1).runtimeconfig.json
+D:\proekty\laba10(1)\bin\Debug\net8.0-windows\laba10(1).dll
+D:\proekty\laba10(1)\bin\Debug\net8.0-windows\laba10(1).pdb
+D:\proekty\laba10(1)\obj\Debug\net8.0-windows\laba10_1_.Form1.resources
+D:\proekty\laba10(1)\obj\Debug\net8.0-windows\laba10(1).csproj.GenerateResource.cache
+D:\proekty\laba10(1)\obj\Debug\net8.0-windows\laba10(1).GeneratedMSBuildEditorConfig.editorconfig
+D:\proekty\laba10(1)\obj\Debug\net8.0-windows\laba10(1).AssemblyInfoInputs.cache
+D:\proekty\laba10(1)\obj\Debug\net8.0-windows\laba10(1).AssemblyInfo.cs
+D:\proekty\laba10(1)\obj\Debug\net8.0-windows\laba10(1).csproj.CoreCompileInputs.cache
+D:\proekty\laba10(1)\obj\Debug\net8.0-windows\laba10(1).dll
+D:\proekty\laba10(1)\obj\Debug\net8.0-windows\refint\laba10(1).dll
+D:\proekty\laba10(1)\obj\Debug\net8.0-windows\laba10(1).pdb
+D:\proekty\laba10(1)\obj\Debug\net8.0-windows\laba10(1).genruntimeconfig.cache
+D:\proekty\laba10(1)\obj\Debug\net8.0-windows\ref\laba10(1).dll
