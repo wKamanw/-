@@ -1,0 +1,16 @@
+D:\proekty\laba11(1)\obj\Debug\net8.0-windows\laba11_1_.Form1.resources
+D:\proekty\laba11(1)\obj\Debug\net8.0-windows\laba11(1).csproj.GenerateResource.cache
+D:\proekty\laba11(1)\obj\Debug\net8.0-windows\laba11(1).GeneratedMSBuildEditorConfig.editorconfig
+D:\proekty\laba11(1)\obj\Debug\net8.0-windows\laba11(1).AssemblyInfoInputs.cache
+D:\proekty\laba11(1)\obj\Debug\net8.0-windows\laba11(1).AssemblyInfo.cs
+D:\proekty\laba11(1)\obj\Debug\net8.0-windows\laba11(1).csproj.CoreCompileInputs.cache
+D:\proekty\laba11(1)\bin\Debug\net8.0-windows\laba11(1).exe
+D:\proekty\laba11(1)\bin\Debug\net8.0-windows\laba11(1).deps.json
+D:\proekty\laba11(1)\bin\Debug\net8.0-windows\laba11(1).runtimeconfig.json
+D:\proekty\laba11(1)\bin\Debug\net8.0-windows\laba11(1).dll
+D:\proekty\laba11(1)\bin\Debug\net8.0-windows\laba11(1).pdb
+D:\proekty\laba11(1)\obj\Debug\net8.0-windows\laba11(1).dll
+D:\proekty\laba11(1)\obj\Debug\net8.0-windows\refint\laba11(1).dll
+D:\proekty\laba11(1)\obj\Debug\net8.0-windows\laba11(1).pdb
+D:\proekty\laba11(1)\obj\Debug\net8.0-windows\laba11(1).genruntimeconfig.cache
+D:\proekty\laba11(1)\obj\Debug\net8.0-windows\ref\laba11(1).dll
